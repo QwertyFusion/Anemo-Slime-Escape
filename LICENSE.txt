@@ -1,0 +1,38 @@
+Non-Commercial Fan Project License
+
+Copyright (c) 2024 Rishi Banerjee
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use
+the Software solely for personal and educational purposes, subject to the following
+conditions:
+
+1. Non-Commercial Use: The Software may not be used for any commercial purpose. 
+   Any part of this Software, including but not limited to code, images, and assets, 
+   may not be used to generate revenue or used in a product that is sold.
+
+2. No Redistribution: The Software and its associated documentation may not be 
+   copied, redistributed, published, or shared in any form, without explicit permission 
+   from the author. 
+
+3. No Modification or Derivative Works: No part of this Software may be modified, 
+   adapted, or used to create derivative works without permission. This restriction 
+   includes the code, images, and all other assets within the Software.
+
+4. Intellectual Property Acknowledgment: This Software incorporates concepts, characters, 
+   and themes inspired by Genshin Impact, developed by miHoYo. All rights to the characters 
+   and themes belong to miHoYo. This Software does not claim ownership or rights to any 
+   proprietary content from Genshin Impact and is not endorsed by miHoYo.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+By using this Software, you agree to these terms. Any use of this Software
+in violation of these terms will constitute a violation of this license.
+
+© 2024 Rishi Banerjee
