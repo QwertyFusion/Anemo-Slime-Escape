@@ -1,10 +1,14 @@
 # Anemo Slime Escape
 
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/QwertyFusion/Anemo-Slime-Escape/blob/main/img_src/logo.png"/>
 </p>
 
-**Flappy Slime** is a fan-made game inspired by *Flappy Bird*, featuring an Anemo Slime from *Genshin Impact* as the main character. Navigate the slime through obstacles to earn points, avoid Zhongli's pillars, and break Geo constructs with a special attack to make your escape!
+**Anemo Slime Escape** is a fan-made game inspired by *Flappy Bird*, featuring an Anemo Slime from *Genshin Impact* as the main character. Navigate the slime through obstacles to earn points, avoid Zhongli's pillars, and break Geo constructs with a special attack to make your escape!
+
+
+## Disclaimer
+This project is a non-commercial, fan-made game created purely for learning purposes. All characters, terms, and designs referenced from *Genshin Impact* belong to *miHoYo* and their respective rights holders. No assets from *Genshin Impact* are used directly, nor do we claim ownership over these characters. This project is not intended for distribution and remains private.
 
 
 ## Game Story
@@ -20,11 +24,20 @@ In this adventure, you control an Anemo Slime that’s trying to escape from Zho
 - **Survival**: Avoid crashing into pillars or constructs. Use air bubble attack to break constructs that are blocking your path.
 
 
-## Screenshots
-Add screenshots here to show gameplay, obstacles, and character interactions:
+## License
+Anemo Slime Escape is released under the Non-Commercial Fan Project License. See the <a href="https://github.com/QwertyFusion/Anemo-Slime-Escape/blob/main/LICENSE.txt">LICENSE</a> file for more information. This game is not for commercial use. Code and assets are not available for redistribution, and the project remains private.
 
-![Screenshot1](path-to-screenshot1.png)  
-![Screenshot2](path-to-screenshot2.png)
+
+## Credits
+
+This game, **Anemo Slime Escape**, is a fan-made project created purely for learning and personal enjoyment. It is inspired by characters and themes from *Genshin Impact*, a game developed and owned by **miHoYo**. 
+
+- **Character Inspirations**: Anemo Slime, Zhongli, and Geo Traveler constructs are original creations of miHoYo, and all rights to these characters and designs belong to them.
+- **Game Concept**: Inspired by the gameplay mechanics of *Flappy Bird*, developed by Dong Nguyen.
+
+No assets, visuals, or code from *Genshin Impact* have been directly used in this project. All assets were created independently using **Adobe Photoshop**, and no proprietary materials have been copied. This game is private, non-commercial, and not intended for distribution.
+
+Thank you to **miHoYo** for the inspiration their work provides to fans worldwide.
 
 
 ## Installation
@@ -33,24 +46,12 @@ Add screenshots here to show gameplay, obstacles, and character interactions:
 3. Launch the game and enjoy!
 
 
-## License
-PaperTrail is released under the Non-Commercial Fan Project License. See the <a href="https://github.com/QwertyFusion/Anemo-Slime-Escape/blob/main/LICENSE.txt">LICENSE</a> file for more information. This game is not for commercial use. Code and assets are not available for redistribution, and the project remains private.
-
-
-## Disclaimer
-This project is a non-commercial, fan-made game created purely for learning purposes. All characters, terms, and designs referenced from *Genshin Impact* belong to *miHoYo* and their respective rights holders. No assets from *Genshin Impact* are used directly, nor do we claim ownership over these characters. This project is not intended for distribution and remains private.
-
-
-## Credits
-
-This game, **Flappy Slime**, is a fan-made project created purely for learning and personal enjoyment. It is inspired by characters and themes from *Genshin Impact*, a game developed and owned by **miHoYo**. 
-
-- **Character Inspirations**: Anemo Slime, Zhongli, and Geo Traveler constructs are original creations of miHoYo, and all rights to these characters and designs belong to them.
-- **Game Concept**: Inspired by the gameplay mechanics of *Flappy Bird*, developed by Dong Nguyen.
-
-No assets, visuals, or code from *Genshin Impact* have been directly used in this project. All assets were created independently using **Adobe Photoshop**, and no proprietary materials have been copied. This game is private, non-commercial, and not intended for distribution.
-
-Thank you to **miHoYo** for the inspiration their work provides to fans worldwide.
+## Screenshots
+<p align="center">
+  <img src="https://github.com/QwertyFusion/Anemo-Slime-Escape/blob/main/img_src/screenshot_1.png"/>
+  <img src="https://github.com/QwertyFusion/Anemo-Slime-Escape/blob/main/img_src/screenshot_2.png"/>
+  <img src="https://github.com/QwertyFusion/Anemo-Slime-Escape/blob/main/img_src/screenshot_3.png"/>
+</p>
 
 
 ## Tools Used
