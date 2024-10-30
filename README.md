@@ -56,7 +56,7 @@ Thank you to **miHoYo** for the inspiration their work provides to fans worldwid
 
 ## Tools Used
 - **Adobe Photoshop** - Creating assets and visuals
-- **Unity** - Game development engine
+- **Unity version 6000.0.22f1** - Game development engine
 - **VS Code** - Code editor for C# scripts
 - **C#** - Primary programming language
 
